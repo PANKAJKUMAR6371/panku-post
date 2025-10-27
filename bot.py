@@ -699,4 +699,4 @@ def index():
     .fa-facebook:hover { color: #1877F2 !important; }
     .fa-whatsapp:hover { color: #25D366 !important; }
 
-    /* Added
+    /* Added 
